@@ -86,8 +86,11 @@ Deployment Manager Features:
 4. Templates: The Python and Jinja2 template that programmatically controls what gets deployed. 
 5. Input & Output parameters: Pass variables (e.g.m zones machine sizem number of machines, state: test, prod,staging) into your templates and get ouput values back.
 6. Preview Mode: See what changes the Deployemt Manager will make on a create or update operation before you commit the changes. 
+```
+```
+[<img src="https://github.com/cgpeanut/gcp-deployment-manager/blob/main/data/deployment-mgr-config-template-ex1.png">]
 
-### Chapter 2 Depoloyment Manger 
+### Chapter 2 Deployment Manager 
 
 * Ansible and Terraform installed on your machine.
 * A registered OAuth application on Github.
