@@ -57,7 +57,7 @@ Five things to know about Google Cloud Shell.
 ```
 # Managing Version with Git
 
-[<img src="https://github.com/cgpeanut/gcp-deployment-manager/blob/main/data/git_flow.png">](https://medium.com/google-cloud/a-ci-cd-solution-in-under-10-minutes-featuring-terraform-ansible-and-drone-ci-on-gcp-16bba497c655)
+[<img src="https://github.com/cgpeanut/gcp-deployment-manager/blob/main/data/git_flow.png">]
 
 ```
 ```
