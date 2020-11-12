@@ -96,3 +96,18 @@ They all take an action and Feed
 ```
 ```
 [<img src="https://github.com/cgpeanut/gcp-deployment-manager/blob/main/data/deployment-mgr-config-template-ex2.png">]
+```
+```
+[<img src="https://github.com/cgpeanut/gcp-deployment-manager/blob/main/data/git_flow.png">]
+```
+```
+[<img src="https://github.com/cgpeanut/gcp-deployment-manager/blob/main/data/deployment-flow.png">]
+
+```
+```
+[<img src="https://github.com/cgpeanut/gcp-deployment-manager/blob/main/data/gcp-deployment-manager-configuration-template.png">]
+```
+```
+[<img src="https://github.com/cgpeanut/gcp-deployment-manager/blob/main/data/gcp-ready2deploy.png">]
+```
+```
