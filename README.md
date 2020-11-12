@@ -68,13 +68,14 @@ Process of going thru multiple pass to see what works and having the ability to 
 Adding Files to the  Repository
 ```
 ```
-$ git Add, Commit - Track chamges in the local repository
+$ Git Add, Commit - Track chamges in the local repository
 $ Git Clone - Create a local repository from a remote repository
-$ Git push, Pull - Retrieve more files from a remote repositiry, commit local files to a remote repository.
+$ Git Push, Pull - Retrieve more files from a remote repositiry, commit local files to a remote repository.
 
 * Putting it all together
 ```
 ```
+[<img src="https://github.com/cgpeanut/gcp-deployment-manager/blob/main/data/deployment-flow.png">]
 
 ### Chapter 2 Depoloyment Manger 
 
