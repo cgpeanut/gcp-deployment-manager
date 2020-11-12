@@ -16,13 +16,17 @@ application programming interface, the main virtue of APIs is that they facilita
 3 ways to interact with the Google Cloud APIs
 ```
 ```
+```
     GUI - Graphical User interface - Using the Google Cloud Console to provision resources.
+```
 ```
 ```
     CLI - Command Line Interface - Tools and Libraries for interacting with Google Cloud products and services (gcloud)
 ```
 ```
+```
     API - Application Programming Interface - Access Cloud APIs from server applications in a wide variety of popular programming languages.
+```
 ```
 ```
 * Exploring Cloud Shell
