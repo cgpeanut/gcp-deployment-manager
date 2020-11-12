@@ -62,13 +62,19 @@ Five things to know about Google Cloud Shell.
 * Managing Version with Git
 ```
 ```
+Concept of a command based repository - git, commit flow - why we add files to staging then to a repository, then push those files to a repository. 
+Process of going thru multiple pass to see what works and having the ability to start over at the last point of progress. 
+```
+```
+Adding Files to the  Repository
+
+Companion code to [A CI/CD solution in under 10 minutes, using Terraform & Ansible on GCP](https://medium.com/google-cloud/a-ci-cd-solution-in-under-10-minutes-featuring-terraform-ansible-and-drone-ci-on-gcp-16bba497c655
+
 * Putting it all together
 ```
 ```
 
 ### Chapter 2 Depoloyment Manger 
-
-
 
 * Ansible and Terraform installed on your machine.
 * A registered OAuth application on Github.
