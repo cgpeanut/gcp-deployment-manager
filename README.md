@@ -88,13 +88,11 @@ Deployment Manager Features:
 6. Preview Mode: See what changes the Deployemt Manager will make on a create or update operation before you commit the changes. 
 ```
 ```
-[<img src="https://github.com/cgpeanut/gcp-deployment-manager/blob/main/data/deployment-mgr-config-template-ex1.png">]
 
 ### Chapter 2 Deployment Manager 
-
-* Ansible and Terraform installed on your machine.
-* A registered OAuth application on Github.
-* A pair of SSH keys.
+We use Google Deployment Manager to ctreate cloud resources with simple templates.
+They all take an action and Feed
+[<img src="https://github.com/cgpeanut/gcp-deployment-manager/blob/main/data/deployment-mgr-config-template-ex1.png">]
 
 ```
 ```
