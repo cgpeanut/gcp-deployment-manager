@@ -60,6 +60,9 @@ Five things to know about Google Cloud Shell.
 
 
 * Managing Version with Git
+
+[<img src="https://cdn-images-1.medium.com/max/600/1*VwcyIZ3x7tlrtME9QSjv1A.jpeg">](https://medium.com/google-cloud/a-ci-cd-solution-in-under-10-minutes-featuring-terraform-ansible-and-drone-ci-on-gcp-16bba497c655)
+
 ```
 ```
 Concept of a command based repository - git, commit flow - why we add files to staging then to a repository, then push those files to a repository. 
@@ -67,13 +70,8 @@ Process of going thru multiple pass to see what works and having the ability to 
 ```
 ```
 Adding Files to the  Repository
-
-# infrastructure-as-code in GCP
-
-Companion code to [A CI/CD solution in under 10 minutes, using Terraform & Ansible on GCP](https://medium.com/google-cloud/a-ci-cd-solution-in-under-10-minutes-featuring-terraform-ansible-and-drone-ci-on-gcp-16bba497c655)
-
-[<img src="https://cdn-images-1.medium.com/max/600/1*VwcyIZ3x7tlrtME9QSjv1A.jpeg">](https://medium.com/google-cloud/a-ci-cd-solution-in-under-10-minutes-featuring-terraform-ansible-and-drone-ci-on-gcp-16bba497c655)
-
+```
+```
 * Putting it all together
 ```
 ```
