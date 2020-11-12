@@ -15,7 +15,9 @@ application programming interface, the main virtue of APIs is that they facilita
 
 3 ways to interact with the Google Cloud APIs
     GUI - Graphical User interface
+```
     CLI - Command Line INterface
+```
     API - Application Programming Interface
 ```
 ```
