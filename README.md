@@ -76,6 +76,16 @@ $ Git Push, Pull - Retrieve more files from a remote repositiry, commit local fi
 ```
 ```
 [<img src="https://github.com/cgpeanut/gcp-deployment-manager/blob/main/data/deployment-flow.png">]
+```
+```
+Deployment Manager Features:
+1. Parallel Deployment: Deploy many resources at one time, in parallel.
+2. Updates: Add, delete, or change resources in the deployment.
+3. Refenrences: One resource definition can reference another resource creating dependencies 
+ and controlling the order of resource creation.
+4. Templates: The Python and Jinja2 template that programmatically controls what gets deployed. 
+5. Input & Output parameters: Pass variables (e.g.m zones machine sizem number of machines, state: test, prod,staging) into your templates and get ouput values back.
+6. Preview Mode: See what changes the Deployemt Manager will make on a create or update operation before you commit the changes. 
 
 ### Chapter 2 Depoloyment Manger 
 
