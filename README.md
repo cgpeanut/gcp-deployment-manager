@@ -96,7 +96,3 @@ They all take an action and Feed
 ```
 ```
 [<img src="https://github.com/cgpeanut/gcp-deployment-manager/blob/main/data/deployment-mgr-config-template-ex2.png">]
-
-
-
-
