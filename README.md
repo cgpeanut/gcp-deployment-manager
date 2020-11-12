@@ -16,13 +16,13 @@ application programming interface, the main virtue of APIs is that they facilita
 3 ways to interact with the Google Cloud APIs
 ```
 ```
-GUI - Graphical User interface - Using the Google Cloud Console to provision resources.
+    01. GUI - Graphical User interface - Using the Google Cloud Console to provision resources.
 ```
 ```
-CLI - Command Line Interface - Tools and Libraries for interacting with Google Cloud products and services (gcloud)
+    02. CLI - Command Line Interface - Tools and Libraries for interacting with Google Cloud products and services (gcloud)
 ```
 ```
-API - Application Programming Interface - Access Cloud APIs from server applications in a wide variety of popular programming languages.
+    03. API - Application Programming Interface - Access Cloud APIs from server applications in a wide variety of popular programming languages.
     Google Cloud SDK
     Google Cloud Libraries 
 ```
@@ -34,12 +34,33 @@ Which API are available in GCP, Which Tools we will use to connectto the APIs an
 ```
 * Exploring Cloud Shell
 Google Cloud SDK - gcloud deployment manager toolset to submit our order for resources on the google cloud platform.
-Google Cloud Shell - cloud shell is a free adminmachine with browser-based command-line access for managing you infrastructure and applications on Google Cloud Platform. 
-
-
-
+Google Cloud Shell - cloud shell is a free adminmachine with browser-based command-line access for managing you 
+infrastructure and applications on Google Cloud Platform. 
 ```
 ```
+Iaac example - reserving and IP address, reitrering a DNs name with info blocks using the info blocks API
+```
+```
+Five things to know about Google Cloud Shell.
+```
+    01. Cloud Shell: provides you with command-line access to your cloud resources directly from your browser./
+```
+```
+    02. Built in Development Tools: You'll find Java, Go Python, Node.js, PHP and Ruby development tools.
+```
+```
+    03. Cloud Editor: Cloud Shell comes with a built-in code editor that allows you to browse file directories as well as view and edit files. 
+```
+```
+    04. Gcloud Command Line Tool: The gcloud CLI manages authentication, local configuration, developer workflow, interactions with Google Cloud APIs. 
+```
+```
+    05. Google Cloud SDK: Tools and libraries for interacting with Google Cloud Products and services.
+```
+```
+
+
+
 * Managing Version with Git
 ```
 ```
