@@ -11,6 +11,8 @@ creating infrstructure as code
 understanding APIs
 ```
 ```
+    * application programming interface, the main virtue of APIs is that they facilitate the relationship between two applciations to exchange messages or data.
+
 exploring cloud shell
 ```
 ```
