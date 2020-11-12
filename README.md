@@ -25,6 +25,8 @@ CLI - Command Line Interface - Tools and Libraries for interacting with Google C
 API - Application Programming Interface - Access Cloud APIs from server applications in a wide variety of popular programming languages.
     Google Cloud SDK
     Google Cloud Libraries 
+```
+```
 The main virtue of APIs is that they facilitate the relationship between two applications to exchange messages or data.
 
 ```
