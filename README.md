@@ -27,11 +27,17 @@ API - Application Programming Interface - Access Cloud APIs from server applicat
     Google Cloud Libraries 
 ```
 ```
-The main virtue of APIs is that they facilitate the relationship between two applications to exchange messages or data.
-
+The main virtue of APIs is that they facilitate the relationship between two applications to exchange messages or data. 
+Messages or data are configuration files on GCP and when sent out to the deployment manager APIs will create a deploymentm, whether successfull or not the API will return a result. 
+Which API are available in GCP, Which Tools we will use to connectto the APIs and Understand how to use GCP API to request IaaC. 
 ```
 ```
 * Exploring Cloud Shell
+Google Cloud SDK - gcloud deployment manager toolset to submit our order for resources on the google cloud platform.
+Google Cloud Shell - cloud shell is a free adminmachine with browser-based command-line access for managing you infrastructure and applications on Google Cloud Platform. 
+
+
+
 ```
 ```
 * Managing Version with Git
