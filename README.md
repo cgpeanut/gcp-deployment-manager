@@ -5,15 +5,17 @@ thru software rather than a manual process like configuring hardware or oepating
 
 ## Chapter 1: intro to infrastructure as code (IAC) on GCP
 
+```
 creating infrstructure as code
 ```
-understanding APIs
+* understanding APIs
 ```
 exploring cloud shell
 ```
 managing version with Git
 ```
 Putting it all together
+```
 
 ### Chapter 2 Depoloyment Manger 
 
