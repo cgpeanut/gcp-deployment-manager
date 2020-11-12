@@ -74,31 +74,6 @@ Five things to know about Google Cloud Shell.
 * A registered OAuth application on Github.
 * A pair of SSH keys.
 
-### Terraform
-
-First off, hop over to the Terraform directory.
-```
-cd terraform/
-```
-Run the `init.sh` script to initialize the required values.
-```
-chmod +x init.sh
-./init.sh
-```
-
-Begin Terraforming!
-```
-terraform init
-```
-```
-terraform plan
-```
-```
-terraform apply
-```
-Store the ip address of the newly created compute instance in a variable, we will be using it shortly.
-```
-export VM_IP=$(terraform output ip)
 ```
 
 ### Ansible
