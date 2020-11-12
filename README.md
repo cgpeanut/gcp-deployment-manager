@@ -8,18 +8,24 @@ thru software rather than a manual process like configuring hardware or oepating
 creating infrstructure as code
 ```
 ```
-understanding APIs
+* Understanding APIs
 ```
 ```
-    * application programming interface, the main virtue of APIs is that they facilitate the relationship between two applciations to exchange messages or data.
+application programming interface, the main virtue of APIs is that they facilitate the relationship between two applciations to exchange messages or data.
 
-exploring cloud shell
+3 ways to interact with the Google Cloud APIs
+    GUI - Graphical User interface
+    CLI - Command Line INterface
+    API - Application Programming Interface
 ```
 ```
-managing version with Git
+* Exploring Cloud Shell
 ```
 ```
-Putting it all together
+* Managing Version with Git
+```
+```
+* Putting it all together
 ```
 ```
 
