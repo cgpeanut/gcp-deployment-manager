@@ -111,3 +111,9 @@ They all take an action and Feed
 [<img src="https://github.com/cgpeanut/gcp-deployment-manager/blob/main/data/gcp-ready2deploy.png">]
 ```
 ```
+[<img src="https://github.com/cgpeanut/gcp-deployment-manager/blob/main/data/gcp-ready2deploy.png">]
+```
+```
+[<img src="https://github.com/cgpeanut/gcp-deployment-manager/blob/main/data/accurate2520-140gr6.5.png">]
+```
+```
